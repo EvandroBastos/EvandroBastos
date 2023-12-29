@@ -1,9 +1,12 @@
-##  Olá, sou <strong>Marcelo Morais!</strong>
+##  Olá, sou <strong>Evandro Bastos!</strong>
 
-### Sou um apaixonado pelo mundo de desenvolvimento e como a tecnologia pode mudar tudo ao nosso redor.
-> Desenvolvedor de software trabalhando no back-end da aplicação, criando Api’s Rest usando linguagens de programação como Javascript ou Typescript em nodeJs.
-> Criando e populando banco de dados relacionais ou noSql.
-> Criando interfaces para projetos web usando React. Com conhecimentos em HTML, CSS, Bootstrap e Template Engine javascript para projetos no padrão MVC.
+### Analisar requisitos sob a ótica de programação, seguindo as linguagens definidas para o projeto;     
+Executar as tarefas junto ao PO da Squad; 
+Atuar no desenvolvimento e resolução de incidentes e corretivas, propondo melhorias para 
+as aplicações e processos dos produtos geridos pelo seu SQUAD; 
+Avaliar em que componente de software funciona de acordo com o que foi especificado;   
+Trabalhar de forma colaborativa, apoiando o time e disseminando conhecimento;     
+Trabalhar com metodologias Ágeis;.
 
 
 ----
@@ -49,16 +52,16 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-[![fmarcelomorais](https://github-readme-stats.vercel.app/api?username=fmarcelomorais&theme=dracula&show_icons=true)](https://github.com/fmarcelomorais)
+[![evandrobastos](https://github-readme-stats.vercel.app/api?username=evandrobastos&theme=dracula&show_icons=true)](https://github.com/evandrobastos)
 
 
-[![fmarcelomorais](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarcelomorais&hide=html&layout=compact&theme=dracula)](https://github.com/fmarcelomorais)
+[![evandrobastos](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrobastos&hide=html&layout=compact&theme=dracula)](https://github.com/evandrobastos)
 
 ## Visitas no pefil - Atividade
 
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/fmarcelomorais/count.svg" />  
+  <img src="https://profile-counter.glitch.me/evandrobastos/count.svg" />  
 </p>
 
