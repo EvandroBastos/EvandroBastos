@@ -1,12 +1,12 @@
 ##  Olá, sou <strong>Evandro Bastos!</strong>
 
 ### Analisar requisitos sob a ótica de programação, seguindo as linguagens definidas para o projeto;     
-Executar as tarefas junto ao PO da Squad; 
-Atuar no desenvolvimento e resolução de incidentes e corretivas, propondo melhorias para 
+- Executar as tarefas junto ao PO da Squad; 
+- Atuar no desenvolvimento e resolução de incidentes e corretivas, propondo melhorias para 
 as aplicações e processos dos produtos geridos pelo seu SQUAD; 
-Avaliar em que componente de software funciona de acordo com o que foi especificado;   
-Trabalhar de forma colaborativa, apoiando o time e disseminando conhecimento;     
-Trabalhar com metodologias Ágeis;.
+- Avaliar em que componente de software funciona de acordo com o que foi especificado;   
+- Trabalhar de forma colaborativa, apoiando o time e disseminando conhecimento;     
+- Trabalhar com metodologias Ágeis;.
 
 
 ----
